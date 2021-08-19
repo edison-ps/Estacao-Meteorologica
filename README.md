@@ -6,7 +6,7 @@ Essa estação tem o objetivo de prover dados meteorológico para automação de
 ## Tecnologia usada
 
 Desenvolvimento:
-> Projeto foi desenvolvido utilizando um microcontrolador Arduino Mega. O sistema fica em stand by aguardando uma requisição, para fazer a medição e envio dos dados
+> Projeto foi desenvolvido utilizando um microcontrolador Arduino Mega e uma interface ethernet.  O sistema fica em stand by aguardando uma requisição, para fazer a medição e envio dos dados
 
 > A API retorna os dados como um objeto JSON no seguinte formato.
 
